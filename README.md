@@ -1,1 +1,2 @@
 # Projects
+A collection of C++ projects showcasing various programming concepts, including Object-Oriented Programming (OOP), data structures, and algorithms. Each project highlights different C++ features, from basic syntax and console applications to more advanced concepts like file handling, inheritance, polymorphism, and data manipulation. This repository serves as both a learning tool and a practical reference for building foundational C++ skills. Contributions and suggestions for improvements are welcome!
